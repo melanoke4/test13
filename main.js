@@ -1,0 +1,1 @@
+console.log("Cut off a wolf's head and it still has the power to bite.");
